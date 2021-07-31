@@ -61,7 +61,7 @@ $gruop_username   = $update->message->chat->username;
 $group_type       = $update->message->chat->type;
 $group_title       = $update->message->chat->title;
 
-$admin = 1100821700;
+$admin = 1763999670;
 $new = $update->message->new_chat_member->id;
 $left = $update->message->left_chat_participant->id;
 // #------check user-----------------------------------------------------------#-----------------------------------------------------------------
